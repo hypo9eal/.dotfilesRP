@@ -4,7 +4,7 @@
 
 [user]
 	name = hypo9eal
-	email = 
+	email = dummy@dummy.com
 
 [filter "lfs"]
 	required = true
